@@ -459,3 +459,29 @@ This helps reduce response time and improves technician allocation efficiency.
 # Project Status
 
 Production-ready service booking and technician management platform designed to streamline home-service operations, automate technician assignment, manage quotations, track service workflows, and improve customer experience through a centralized administration system.
+
+# Screenshots
+
+## Dashboard
+![Dashboard](screenshots/dashboard.png)
+
+## Technician Management
+![Technicians](screenshots/technicians.png)
+
+## Service Categories
+![Categories](screenshots/categories.png)
+
+## Services List
+![Services](screenshots/services.png)
+
+## Booking Management
+![Bookings](screenshots/bookings.png)
+
+## Technician Assignment
+![Assignment](screenshots/assignment.png)
+
+## Reports & Analytics
+![Reports](screenshots/reports.png)
+
+## Support Tickets
+![Support Tickets](screenshots/support-tickets.png)
