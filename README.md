@@ -475,7 +475,7 @@ Production-ready service booking and technician management platform designed to 
 ![Services](screenshots/services.png)
 
 ## Booking Management
-![Bookings](screenshots/bookings.png)
+![Bookings](screenshots/booking.png)
 
 ## Technician Assignment
 ![Assignment](screenshots/assignment.png)
