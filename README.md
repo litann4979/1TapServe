@@ -466,7 +466,7 @@ Production-ready service booking and technician management platform designed to 
 ![Dashboard](screenshots/dashboard.png)
 
 ## Technician Management
-![Technicians](screenshots/technicians.png)
+![Technicians](screenshots/technician.png)
 
 ## Service Categories
 ![Categories](screenshots/categories.png)
